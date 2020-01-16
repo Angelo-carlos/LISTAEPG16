@@ -1,0 +1,1581 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ANIMAL  PLANET FHD">
+    <display-name lang="pt">ANIMAL  PLANET FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND NEWS FHD">
+    <display-name lang="pt">BAND NEWS FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SSONY CHANNEL HD">
+    <display-name lang="pt">SONY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CANCÃO NOVA HD">
+    <display-name lang="pt">CANCÃO NOVA HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION FHD H265">
+    <display-name lang="pt">DISCOVERY CIVILIZATION FHD H265</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home Health">
+    <display-name lang="pt">Discovery Home Health</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE FHD">
+    <display-name lang="pt">DISCOVERY SCIENCE FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvitv.gif|http://www.lineup.tv.br/canais/redeminas.gif|http://www.lineup.tv.br/canais/tvevangelizar.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX FHD">
+    <display-name lang="pt">FOX FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/romanews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO NEWS">
+    <display-name lang="pt">GLOBO NEWS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="pt">HISTORY HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HISTORY FHD">
+    <display-name lang="pt">HISTORY FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="INVESTIGAÇÃO DISCOVERY HD">
+    <display-name lang="pt">INVESTIGAÇÃO DISCOVERY HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="INVESTIGAÇÃO DISCOVERY FHD">
+    <display-name lang="pt">INVESTIGAÇÃO DISCOVERY FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/skynewsarabia.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MEGAPIX FHD">
+    <display-name lang="pt">MEGAPIX FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeminas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NAT GEO HD">
+    <display-name lang="pt">NAT GEO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NATGEO FHD">
+    <display-name lang="pt">NATGEO FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NOVO TEMPO HD">
+    <display-name lang="pt">NOVO TEMPO HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/24hnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD NEWS HD">
+    <display-name lang="pt">RECORD NEWS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD">
+    <display-name lang="pt">STUDIO UNIVERSAL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="THE HISTORY FHD H265">
+    <display-name lang="pt">THE HISTORY FHD H265</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC FHD">
+    <display-name lang="pt">TLC FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV NOVO TEMPO FHD">
+    <display-name lang="pt">TV NOVO TEMPO FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200116000300 -0400" stop="20200116005700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">O Caçador de Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116005700 -0400" stop="20200116015100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116015100 -0400" stop="20200116024500 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116024500 -0400" stop="20200116033900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033900 -0400" stop="20200116043200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116043200 -0400" stop="20200116052500 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem com Evan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116052500 -0400" stop="20200116061800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116061800 -0400" stop="20200116064300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116064300 -0400" stop="20200116073400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073400 -0400" stop="20200116082500 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116082500 -0400" stop="20200116091700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116091700 -0400" stop="20200116100900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100900 -0400" stop="20200116110100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116110100 -0400" stop="20200116115300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116115300 -0400" stop="20200116124600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116124600 -0400" stop="20200116133900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116133900 -0400" stop="20200116143200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116143200 -0400" stop="20200116152400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116152400 -0400" stop="20200116161600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116161600 -0400" stop="20200116170800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116170800 -0400" stop="20200116180000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180000 -0400" stop="20200116182600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116182600 -0400" stop="20200116185200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116185200 -0400" stop="20200116194300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116194300 -0400" stop="20200116203400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116203400 -0400" stop="20200116212700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116212700 -0400" stop="20200116221900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem: Grandes Migrações</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116221900 -0400" stop="20200116231400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Dinastias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116231400 -0400" stop="20200117001100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Espiões da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116004500 -0400" stop="20200116014000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116014000 -0400" stop="20200116023500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116023500 -0400" stop="20200116033000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033000 -0400" stop="20200116042000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116042000 -0400" stop="20200116051000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116051000 -0400" stop="20200116060000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116060000 -0400" stop="20200116070000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116080000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116080000 -0400" stop="20200116090000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116100000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100000 -0400" stop="20200116110000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116110000 -0400" stop="20200116115500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116115500 -0400" stop="20200116125000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116125000 -0400" stop="20200116134500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116134500 -0400" stop="20200116144000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144000 -0400" stop="20200116153500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116153500 -0400" stop="20200116163000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116163000 -0400" stop="20200116172500 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116172500 -0400" stop="20200116182000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116182000 -0400" stop="20200116191500 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116191500 -0400" stop="20200116201000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116201000 -0400" stop="20200116210500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116210500 -0400" stop="20200116220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200116225500 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116225500 -0400" stop="20200116235000 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116235000 -0400" stop="20200117004500 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000000 -0400" stop="20200116020000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020000 -0400" stop="20200116030000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116030000 -0400" stop="20200116033000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">BandNews DOCs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033000 -0400" stop="20200116040000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116040000 -0400" stop="20200116060000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal Terraviva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116060000 -0400" stop="20200116073000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073000 -0400" stop="20200116084500 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Giro Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116084500 -0400" stop="20200116090000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Giro Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116120000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116120000 -0400" stop="20200116140000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116140000 -0400" stop="20200116144500 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144500 -0400" stop="20200116150000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Giro Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116150000 -0400" stop="20200116180000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180000 -0400" stop="20200116191500 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116191500 -0400" stop="20200116193000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Giro Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116193000 -0400" stop="20200116200000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200000 -0400" stop="20200116203000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116203000 -0400" stop="20200116220000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200116223000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Giro Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116223000 -0400" stop="20200117000000 -0400" channel="BAND NEWS FHD">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116002400 -0400" stop="20200116011200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Smash Lab</title>
+    <sub-title lang="pt">Ciência da Destruição</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116011200 -0400" stop="20200116020000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Smash Lab</title>
+    <sub-title lang="pt">Ciência da Destruição</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020000 -0400" stop="20200116022400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Ciência nas Ruas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116022400 -0400" stop="20200116024800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Ciência nas Ruas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116024800 -0400" stop="20200116033600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Olho Crítico: Poder da Mente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033600 -0400" stop="20200116042400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Adam Savage: Invenções Extraordinárias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116042400 -0400" stop="20200116051200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Da Vinci na Prática</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116051200 -0400" stop="20200116060000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Smash Lab</title>
+    <sub-title lang="pt">Ciência da Destruição</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116060000 -0400" stop="20200116064800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Smash Lab</title>
+    <sub-title lang="pt">Ciência da Destruição</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116064800 -0400" stop="20200116073600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Protótipos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073600 -0400" stop="20200116082400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Protótipos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116082400 -0400" stop="20200116091200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Vale do Silício</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116091200 -0400" stop="20200116100000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">O Mundo do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100000 -0400" stop="20200116104800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Megaconstruções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116104800 -0400" stop="20200116113600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Megaconstruções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116113600 -0400" stop="20200116122400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Grandes Mistérios do Universo com Morgan Freeman</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116122400 -0400" stop="20200116131200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Histórias de ÓVNIs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116131200 -0400" stop="20200116140000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Investigadores Psíquicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116140000 -0400" stop="20200116144800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Desastres Espaciais</title>
+    <sub-title lang="pt">Os Segredos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144800 -0400" stop="20200116153600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Desaparecidos: Mistérios da Humanidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116153600 -0400" stop="20200116162400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Veículos Lunares</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116162400 -0400" stop="20200116171200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Adam Savage: Invenções Extraordinárias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116171200 -0400" stop="20200116180000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Os Últimos Segredos de Houdini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180000 -0400" stop="20200116184800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Códigos e Conspirações</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116184800 -0400" stop="20200116193600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Histórias de ÓVNIs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116193600 -0400" stop="20200116202400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Stephen Hawking: O Grande Projeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116202400 -0400" stop="20200116211200 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Por Que Deu Errado?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116211200 -0400" stop="20200116220000 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Caçadores de Tempestades 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200116224800 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">A Ciência do Impossível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116224800 -0400" stop="20200116233600 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Tornado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116233600 -0400" stop="20200117002400 -0400" channel="DISCOVERY SCIENCE HD">
+    <title lang="pt">Codinome: Perigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116002500 -0400" stop="20200116020500 -0400" channel="FOX FHD">
+    <title lang="pt">Uma Noite no Museu 3: O Segredo da Tumba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020500 -0400" stop="20200116034500 -0400" channel="FOX FHD">
+    <title lang="pt">Os Smurfs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116034500 -0400" stop="20200116051500 -0400" channel="FOX FHD">
+    <title lang="pt">O Segredo do Lago Ness</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116051500 -0400" stop="20200116070000 -0400" channel="FOX FHD">
+    <title lang="pt">Os Caça-Fantasmas 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116072200 -0400" channel="FOX FHD">
+    <title lang="pt">Fresh off the Boat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116072200 -0400" stop="20200116074600 -0400" channel="FOX FHD">
+    <title lang="pt">Fresh off the Boat</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116074600 -0400" stop="20200116075900 -0400" channel="FOX FHD">
+    <title lang="pt">Zoom In</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116075900 -0400" stop="20200116090000 -0400" channel="FOX FHD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116095900 -0400" channel="FOX FHD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116095900 -0400" stop="20200116101200 -0400" channel="FOX FHD">
+    <title lang="pt">A Noite das Cenouras Vivas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116101200 -0400" stop="20200116123700 -0400" channel="FOX FHD">
+    <title lang="pt">Jerry Maguire</title>
+    <sub-title lang="pt">A Grande Virada</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116123700 -0400" stop="20200116142700 -0400" channel="FOX FHD">
+    <title lang="pt">Férias no Trailer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116142700 -0400" stop="20200116162700 -0400" channel="FOX FHD">
+    <title lang="pt">Jumanji</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116162700 -0400" stop="20200116165300 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116165300 -0400" stop="20200116172000 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116172000 -0400" stop="20200116174700 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116174700 -0400" stop="20200116181300 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116181300 -0400" stop="20200116200100 -0400" channel="FOX FHD">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200100 -0400" stop="20200116202700 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116202700 -0400" stop="20200116205200 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116205200 -0400" stop="20200116211600 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116211600 -0400" stop="20200116214100 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116214100 -0400" stop="20200116220500 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220500 -0400" stop="20200116223000 -0400" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116223000 -0400" stop="20200117010000 -0400" channel="FOX FHD">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000300 -0400" stop="20200116013700 -0400" channel="FX HD">
+    <title lang="pt">Salt</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116013700 -0400" stop="20200116015900 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116015900 -0400" stop="20200116022100 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116022100 -0400" stop="20200116024400 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116024400 -0400" stop="20200116041600 -0400" channel="FX HD">
+    <title lang="pt">Operação Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116041600 -0400" stop="20200116061200 -0400" channel="FX HD">
+    <title lang="pt">À Procura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116061200 -0400" stop="20200116063600 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116063600 -0400" stop="20200116070000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073000 -0400" stop="20200116080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116080000 -0400" stop="20200116083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116083000 -0400" stop="20200116090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100000 -0400" stop="20200116122000 -0400" channel="FX HD">
+    <title lang="pt">A Cura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116122000 -0400" stop="20200116124000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116124000 -0400" stop="20200116130500 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116130500 -0400" stop="20200116133000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116133000 -0400" stop="20200116135500 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116135500 -0400" stop="20200116142000 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116142000 -0400" stop="20200116161500 -0400" channel="FX HD">
+    <title lang="pt">O Apostador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116161500 -0400" stop="20200116175000 -0400" channel="FX HD">
+    <title lang="pt">Operação Sofia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116175000 -0400" stop="20200116200000 -0400" channel="FX HD">
+    <title lang="pt">Sem Dor, Sem Ganho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116200000 -0400" stop="20200116220000 -0400" channel="FX HD">
+    <title lang="pt">Lágrimas do Sol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200117002000 -0400" channel="FX HD">
+    <title lang="pt">Cruzada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000500 -0400" stop="20200116021000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Busca Implacável 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116021000 -0400" stop="20200116042000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Tropa De Elite 2</title>
+    <sub-title lang="pt">O Inimigo Agora É Outro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116042000 -0400" stop="20200116055500 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Demônio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116055500 -0400" stop="20200116073500 -0400" channel="MEGAPIX HD">
+    <title lang="pt">A Garota Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073500 -0400" stop="20200116094000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Um Homem De Família (2016)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116094000 -0400" stop="20200116120000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Branca De Neve E O Caçador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116120000 -0400" stop="20200116141000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">A Bela e a Fera (2014)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116141000 -0400" stop="20200116155000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Veículo 19</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116155000 -0400" stop="20200116182000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Bad Boys II</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116182000 -0400" stop="20200116202500 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Pets Megapix</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116202500 -0400" stop="20200116204000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Meu Malvado Favorito Apresenta: Loucuras dos Minions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116204000 -0400" stop="20200116223000 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Pets Megapix: Meu Malvado Favorito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116223000 -0400" stop="20200117001500 -0400" channel="MEGAPIX HD">
+    <title lang="pt">Pets Megapix: John Wick</title>
+    <sub-title lang="pt">de Volta ao Jogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116001300 -0400" stop="20200116010300 -0400" channel="TLC HD">
+    <title lang="pt">Avós de Primeira Viagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116010300 -0400" stop="20200116015300 -0400" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116015300 -0400" stop="20200116024600 -0400" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116024600 -0400" stop="20200116031300 -0400" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116031300 -0400" stop="20200116033900 -0400" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033900 -0400" stop="20200116040500 -0400" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116040500 -0400" stop="20200116043000 -0400" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116043000 -0400" stop="20200116052000 -0400" channel="TLC HD">
+    <title lang="pt">A Mensageira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116052000 -0400" stop="20200116061000 -0400" channel="TLC HD">
+    <title lang="pt">A Mensageira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116061000 -0400" stop="20200116063400 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116063400 -0400" stop="20200116072300 -0400" channel="TLC HD">
+    <title lang="pt">A Médium</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116072300 -0400" stop="20200116081200 -0400" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116081200 -0400" stop="20200116090100 -0400" channel="TLC HD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090100 -0400" stop="20200116095000 -0400" channel="TLC HD">
+    <title lang="pt">Avós de Primeira Viagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116095000 -0400" stop="20200116101500 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116101500 -0400" stop="20200116103900 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116103900 -0400" stop="20200116110400 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116110400 -0400" stop="20200116112800 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116112800 -0400" stop="20200116115300 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116115300 -0400" stop="20200116121700 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116121700 -0400" stop="20200116124200 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116124200 -0400" stop="20200116130600 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116130600 -0400" stop="20200116135500 -0400" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116135500 -0400" stop="20200116144400 -0400" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116144400 -0400" stop="20200116153300 -0400" channel="TLC HD">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116153300 -0400" stop="20200116162200 -0400" channel="TLC HD">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116162200 -0400" stop="20200116180000 -0400" channel="TLC HD">
+    <title lang="pt">Uma Mulher de Peso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180000 -0400" stop="20200116182500 -0400" channel="TLC HD">
+    <title lang="pt">À Brasileira</title>
+    <sub-title lang="pt">Um Passeio Cultural e Gastronômico</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116182500 -0400" stop="20200116185000 -0400" channel="TLC HD">
+    <title lang="pt">Tempero na Mochila</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116185000 -0400" stop="20200116194000 -0400" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116194000 -0400" stop="20200116203000 -0400" channel="TLC HD">
+    <title lang="pt">A Pequena Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116203000 -0400" stop="20200116221000 -0400" channel="TLC HD">
+    <title lang="pt">Os Reis Ciganos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116221000 -0400" stop="20200116234800 -0400" channel="TLC HD">
+    <title lang="pt">Os Reis Ciganos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116234800 -0400" stop="20200117001300 -0400" channel="TLC HD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116000000 -0400" stop="20200116003000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Fé para Hoje</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116003000 -0400" stop="20200116013000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Na Mira da Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116013000 -0400" stop="20200116020000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Lugar de Paz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116020000 -0400" stop="20200116023000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Está Escrito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116023000 -0400" stop="20200116033000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Consultório de Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116033000 -0400" stop="20200116040000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Reavivados Por Sua Palavra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116040000 -0400" stop="20200116043000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Arena do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116043000 -0400" stop="20200116050000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Escola Bíblica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116050000 -0400" stop="20200116060000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Viva uma experiência real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116060000 -0400" stop="20200116063000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Reavivados Por Sua Palavra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116063000 -0400" stop="20200116070000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Lugar de Paz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116070000 -0400" stop="20200116073000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Evidências</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116073000 -0400" stop="20200116080000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Planeta Gil &amp; Cris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116080000 -0400" stop="20200116090000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Caixa de Música</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116090000 -0400" stop="20200116100000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Vida &amp; Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116100000 -0400" stop="20200116104500 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Revista Novo Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116104500 -0400" stop="20200116113000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Som na Tela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116113000 -0400" stop="20200116120000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Retratos: Histórias Não Contadas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116120000 -0400" stop="20200116123000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Bom de Bíblia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116123000 -0400" stop="20200116130000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Escola Bíblica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116130000 -0400" stop="20200116140000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">A Voz da Profecia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116140000 -0400" stop="20200116143000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Anjos da Esperança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116143000 -0400" stop="20200116160000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Entre Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116160000 -0400" stop="20200116163000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Planeta Gil &amp; Cris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116163000 -0400" stop="20200116170000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Lugar de Paz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116170000 -0400" stop="20200116180000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Vida &amp; Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116180000 -0400" stop="20200116184500 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Som na Tela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116184500 -0400" stop="20200116193000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Revista Novo Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116193000 -0400" stop="20200116203000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Caixa de Música</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116203000 -0400" stop="20200116210000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Escola Bíblica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116210000 -0400" stop="20200116213000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Bom de Bíblia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116213000 -0400" stop="20200116220000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Anjos da Esperança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116220000 -0400" stop="20200116223000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Está Escrito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116223000 -0400" stop="20200116230000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Arena do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116230000 -0400" stop="20200116233000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Teólogos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200116233000 -0400" stop="20200117000000 -0400" channel="TV NOVO TEMPO FHD">
+    <title lang="pt">Consultório de Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
